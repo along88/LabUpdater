@@ -1,0 +1,13 @@
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\ExitAptos.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\StopServices.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\StartServices.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\Reboot.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\CopyFiles.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\TestUpdaterREGS - Copy.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\Execute.bat
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\LabUpdater.exe.config
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\LabUpdater.exe
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\bin\Release\LabUpdater.pdb
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\obj\Release\LabUpdater.csproj.CoreCompileInputs.cache
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\obj\Release\LabUpdater.exe
+C:\Users\posluser.S09109REG001\source\repos\LabUpdater\LabUpdater\obj\Release\LabUpdater.pdb

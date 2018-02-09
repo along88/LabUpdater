@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabUpdater", "LabUpdater\LabUpdater.csproj", "{115A0224-E314-4DD3-8746-671315A4108F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115A0224-E314-4DD3-8746-671315A4108F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115A0224-E314-4DD3-8746-671315A4108F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115A0224-E314-4DD3-8746-671315A4108F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115A0224-E314-4DD3-8746-671315A4108F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604D05B2-B732-4763-A58D-8ADEEB1FAD64}
+	EndGlobalSection
+EndGlobal
